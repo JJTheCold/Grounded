@@ -1,9 +1,9 @@
 {
-    "displayName": "Mod Template",
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration.",
+    "displayName": "Oblivion",
+    "description": "Mindustry Java mod sequal of the Cataclysm mod.",
     "version": "v1.0",
     "minGameVersion": "146",
-    "author": "You",
+    "author": "JJ & Cewwi",
     "java": true,
-    "main": "template.ModTemplate"
+    "main": "template.Grounded"
 }
